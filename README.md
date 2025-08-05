@@ -35,9 +35,9 @@ The Real Estate Price Estimator leverages a machine learning model to analyze hi
 
 ## Project Structure
 
-- `Data/` – Contains sample datasets (if provided).
-- `Real-Estate-Price-Estimator.ipynb` – Main Jupyter Notebook with code, analysis, and results.
-- `README.md` – Project documentation.
+- `Dataset` - Bengaluru_House_Data.csv
+- `Real-Estate-Price-Estimator.ipynb` - Main Jupyter Notebook with code, analysis, and results.
+- `README.md` - Project documentation.
 
 ## Usage
 
